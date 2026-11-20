@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**matheusgasparinidev/matheusgasparinidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Eu sou Matheus Gasparini 👋
 
-Here are some ideas to get you started:
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tenho interesse em desenvolvimento Backend e estou iniciando minha jornada na programação.
+
+🌱 Atualmente estudando:
+- Lógica de Programação
+- Java
+- Git e GitHub
+- Banco de Dados
+
+🎯 Meu objetivo é me tornar Desenvolvedor Backend e construir aplicações que resolvam problemas reais.
+
+📫 Contato: Em breve!
