@@ -8,7 +8,7 @@
 🌱 Atualmente estudando:
 - Lógica de Programação
 - Java
-- Git e GitHub
+- Spring Boot
 - Banco de Dados
 
 🎯 Meu objetivo é me tornar Desenvolvedor Backend e construir aplicações que resolvam problemas reais.
